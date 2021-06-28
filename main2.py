@@ -8,3 +8,5 @@ print("diameter is: " + str(diameter))
 
 circumference = 2 * pi * r
 print("circumference is: " + str(circumference))
+
+print("Area: ", area)
